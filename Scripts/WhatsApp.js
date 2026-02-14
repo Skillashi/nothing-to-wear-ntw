@@ -41,7 +41,7 @@ window.addEventListener('load', function() {
         // Format: country code + number (no + symbol, no spaces, no dashes)
         // Example for Nigeria: +234 803 123 4567 becomes 2348031234567
         // Example for USA: +1 555 123 4567 becomes 15551234567
-        const whatsappNumber = '2348089351360'; // ⚠️ CHANGE THIS TO YOUR NUMBER!
+        const whatsappNumber = '2349158321335'; // ⚠️ CHANGE THIS TO YOUR NUMBER!
         
         console.log('📞 WhatsApp number:', whatsappNumber);
         

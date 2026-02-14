@@ -83,6 +83,15 @@
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+.r {
+  font-size: 10px;
+  font-weight: 600;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  vertical-align: super;
+  position: relative;
+  top: -1px;
+}
+
 .name-2 {
   color: white;
   font-size: 18px;
