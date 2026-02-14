@@ -73,10 +73,10 @@
 }
 
 .hero-cta-button:hover{
-  background-color: #000000;
-  color: #ffffff;
+  background-color: rgb(255, 200, 0);
+  color: #000000;
   transform: translateX(-50%) scale(1.05);
-  box-shadow: 0 4px 12px rgba(255, 255, 255, 0.2);
+  box-shadow: 0 4px 12px #ffc40033;
 }
 
 .hero-section h3:hover {
